@@ -11,3 +11,6 @@ E:\Nagarro_Training\MS-101(Anika Garg Emp Code- 3797)\MS-101(Anika Garg Emp Code
 E:\Fresher Training\Anika-Nagarro_Training_Assignments(Anika Garg)\MS-101(Anika Garg Emp Code- 3797)\Permutation\Permutation\bin\Debug\Permutation.exe.config
 E:\Fresher Training\Anika-Nagarro_Training_Assignments(Anika Garg)\MS-101(Anika Garg Emp Code- 3797)\Permutation\Permutation\obj\Debug\Permutation.exe
 E:\Fresher Training\Anika-Nagarro_Training_Assignments(Anika Garg)\MS-101(Anika Garg Emp Code- 3797)\Permutation\Permutation\obj\Debug\Permutation.pdb
+E:\Fresher Training\SampleProject\Permutation\bin\Debug\Permutation.exe.config
+E:\Fresher Training\SampleProject\Permutation\obj\Debug\Permutation.exe
+E:\Fresher Training\SampleProject\Permutation\obj\Debug\Permutation.pdb

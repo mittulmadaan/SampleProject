@@ -7,5 +7,6 @@ namespace Permutation
     {
         public const string AskForString = "Enter a string";
         public const string DisplayMessage = "All permutations of the entered string are:";
+        public const string DisplayMessage1 = "All permutations of the entered:";
     }
 }
