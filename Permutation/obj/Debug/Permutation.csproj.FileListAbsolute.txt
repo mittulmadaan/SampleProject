@@ -1,0 +1,13 @@
+C:\Users\anikagarg\Documents\Visual Studio 2012\Projects\Permutation\Permutation\bin\Debug\Permutation.exe.config
+C:\Users\anikagarg\Documents\Visual Studio 2012\Projects\Permutation\Permutation\bin\Debug\Permutation.exe
+C:\Users\anikagarg\Documents\Visual Studio 2012\Projects\Permutation\Permutation\bin\Debug\Permutation.pdb
+C:\Users\anikagarg\Documents\Visual Studio 2012\Projects\Permutation\Permutation\obj\Debug\Permutation.exe
+C:\Users\anikagarg\Documents\Visual Studio 2012\Projects\Permutation\Permutation\obj\Debug\Permutation.pdb
+E:\Nagarro_Training\MS-101(Anika Garg Emp Code- 3797)\MS-101(Anika Garg Emp Code- 3797)\Permutation\Permutation\bin\Debug\Permutation.exe.config
+E:\Nagarro_Training\MS-101(Anika Garg Emp Code- 3797)\MS-101(Anika Garg Emp Code- 3797)\Permutation\Permutation\obj\Debug\Permutation.exe
+E:\Nagarro_Training\MS-101(Anika Garg Emp Code- 3797)\MS-101(Anika Garg Emp Code- 3797)\Permutation\Permutation\obj\Debug\Permutation.pdb
+E:\Nagarro_Training\MS-101(Anika Garg Emp Code- 3797)\MS-101(Anika Garg Emp Code- 3797)\Permutation\Permutation\bin\Debug\Permutation.exe
+E:\Nagarro_Training\MS-101(Anika Garg Emp Code- 3797)\MS-101(Anika Garg Emp Code- 3797)\Permutation\Permutation\bin\Debug\Permutation.pdb
+E:\Fresher Training\Anika-Nagarro_Training_Assignments(Anika Garg)\MS-101(Anika Garg Emp Code- 3797)\Permutation\Permutation\bin\Debug\Permutation.exe.config
+E:\Fresher Training\Anika-Nagarro_Training_Assignments(Anika Garg)\MS-101(Anika Garg Emp Code- 3797)\Permutation\Permutation\obj\Debug\Permutation.exe
+E:\Fresher Training\Anika-Nagarro_Training_Assignments(Anika Garg)\MS-101(Anika Garg Emp Code- 3797)\Permutation\Permutation\obj\Debug\Permutation.pdb
